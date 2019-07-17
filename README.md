@@ -14,6 +14,6 @@ So, set your own pace. No rush. And just so you have some bounds, the challenge 
 
 # To run 'WordSequenceFrequency'
  - In an ide, create a run configuration that passes the absolute path to 'pg2009.txt' (located in src/test/resources) as a program argument one or more times
- - From the terminal, navigate to the ryan-wheeler/src/main/java directory, compile the 'WordSequenceFrequency' - javac com/codechallenge/WordSequenceFrequency.java - and then run it with a command similar to one of the following:
+ - From the terminal, navigate to the wordsequence/src/main/java directory, compile the 'WordSequenceFrequency' - javac com/codechallenge/WordSequenceFrequency.java - and then run it with a command similar to one of the following:
    java com.codechallenge.WordSequenceFrequency ../../test/resources/pg2009.txt
    cat ../../test/resources/pg2009.txt | java com.codechallenge.WordSequenceFrequency
